@@ -1,3 +1,9 @@
-Master Control switch in case this tool gets out of control. 
-
-Change filename to kill tool.
+{
+  "InternalMigrationTool": {
+    "enabled": true,
+    "message": "This is Dead. Contact the engineer that created this program - Andre Burwell."
+  }
+  "AuthorizedUserIds": {
+    []
+  }
+}
