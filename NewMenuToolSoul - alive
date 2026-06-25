@@ -1,3 +1,6 @@
-For my personal Advanced API Tool
-
-Change file name to kill tool
+{
+  "NewMenuTool": {
+    "enabled": true,
+    "message": "This is Dead. Contact the engineer that created this program - Andre Burwell."
+  }
+}
