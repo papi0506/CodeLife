@@ -1,6 +1,7 @@
 {
-  "NewMenuTool": {
+  "InternalMigrationTool": {
     "enabled": true,
     "message": "This is Dead. Contact the engineer that created this program - Andre Burwell."
-  }
+  },
+  "AuthorizedUserIds": [83377]
 }
