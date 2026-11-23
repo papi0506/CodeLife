@@ -3,5 +3,11 @@
     "enabled": true,
     "message": "This is Dead. Contact the engineer that created this program - Andre Burwell."
   },
-  "AuthorizedUserIds": [83377,1693006]
+  "VersionControl": {
+    "LatestVersion": 1,
+    "DownloadUrl": ""
+  },
+  "AuthorizedUserIds": {[83377,1693006],
+  "message": "You are not authorized to use this tool. If you believe this to been an error, contact the owner of this tool."
+  }
 }
